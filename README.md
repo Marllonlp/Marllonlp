@@ -1,6 +1,5 @@
 ### Olá, eu sou o Marlon👋
 - 🤓 Estou cursando Sistemas de Informação
-- ☕ Estudo Java
   
 <div>
   <a href="https://github.com/Marllonlp">
