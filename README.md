@@ -4,10 +4,9 @@
 <div>
   <a href="https://github.com/Marllonlp">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marllonlp&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
-    <img  align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllonlp&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
+    <img  align="left" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllonlp&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
