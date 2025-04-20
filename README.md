@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Marlon Neves 
 
-🎓 Estudante de Sistemas de Informação pelo Instituto Federal Goiano  
+🎓 Estudante de Sistemas de Informação no Instituto Federal Goiano  
 ✉️ Contato: marlonmota2019@gmail.com 
 
 ---
