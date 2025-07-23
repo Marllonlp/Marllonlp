@@ -9,10 +9,6 @@
 
 Sou um estudante apaixonado por tecnologia e estou sempre em busca de aprender novas ferramentas e aprimorar meus projetos.
 
-Atualmente, trabalho em projetos acadêmicos e pessoais utilizando boas práticas de programação, como **padrão MVC**, **DAO**, e integração com **banco de dados MySQL**.
-
----
-
 ## 🧠 Habilidades
 
 <p align="left">
