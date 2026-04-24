@@ -14,8 +14,6 @@ Já desenvolvi projetos reais envolvendo autenticação segura, motores de busca
 ---
 
 ## 🛠️ Hard Skills
-<h2>🛠️ Hard Skills</h2>
-
 <table>
   <tr>
     <td><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /></td>
