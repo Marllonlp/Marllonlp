@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Marlon Neves
 
-🎓 Estudante de Sistemas de Informação – Instituto Federal Goiano  
+🎓 Graduando em Sistemas de Informação – Instituto Federal Goiano  
 💻 Back-end Developer | Python · Django · REST APIs · PostgreSQL
 
 ---
