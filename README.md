@@ -9,7 +9,7 @@
 
 Desenvolvedor com foco em back-end usando Python e Django, com experiência prática em APIs REST e sistemas web escaláveis. Também atuo no front-end com React.js, garantindo integração eficiente entre interfaces e serviços.
 
-Já desenvolvi projetos reais envolvendo autenticação segura, motores de busca com filtros avançados e modelagem de banco de dados — sempre buscando código limpo e boas práticas.
+Já desenvolvi projetos reais envolvendo autenticação segura, motores de busca com filtros avançados e modelagem de banco de dados - sempre buscando código limpo e boas práticas.
 
 ---
 
