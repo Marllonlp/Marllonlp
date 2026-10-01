@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou Marlon Neves
 
 🎓 Graduando em Sistemas de Informação – Instituto Federal Goiano  
-💻 Back-end Developer | Python · Django · REST APIs · PostgreSQL
-
+💻 Desenvolvedor Fullstack Júnior | Python | Django | Django REST Framework | React | APIs REST | PostgreSQL
 ---
 
 ## Sobre mim
