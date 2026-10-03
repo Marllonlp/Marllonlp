@@ -28,7 +28,7 @@ Tenho experiência no desenvolvimento e entrega de **sistema institucional em pr
 
 ## 📌 Projetos
 
-### Sistema de Gerenciamento de Portarias — SGPI
+### Sistema de Gerenciamento de Portarias - SGPI
 
 Sistema web desenvolvido para o setor de Gestão de Pessoas do IF Goiano para gerenciamento de portarias.
 
