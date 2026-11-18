@@ -42,4 +42,4 @@ Busco oportunidades na área de **desenvolvimento de software**, como desenvolve
 ## 📫 Contato
 
 🔗 **LinkedIn:** [Marlon Neves](https://www.linkedin.com/in/marlon-neves6/)  
-💻 **GitHub:** [Marllonlp](https://github.com/Marllonlp)
+📧 **E-mail:** [marlonmota2019@gmail.com](mailto:marlonmota2019@gmail.com)
