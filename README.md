@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Marlon Neves
 
 🎓 Graduando em **Sistemas de Informação** pelo Instituto Federal Goiano  
-💻 **Desenvolvedor Fullstack Júnior** | Python · Django · Django REST Framework · React · APIs REST · PostgreSQL
+💻 **Desenvolvedor Full Stack Júnior** | Python · Django · JavaScript · Node.js · React · APIs REST · PostgreSQL
 
 ---
 
@@ -19,32 +19,11 @@ Tenho experiência no desenvolvimento e entrega de **sistema institucional em pr
 
 | Área | Tecnologias e ferramentas |
 | --- | --- |
-| **Back-end** | Python · Django · Django REST Framework · APIs REST · JWT |
+| **Back-end** | Python · Django · Django REST Framework · Django ORM · APIs REST · OAuth 2.0 · Node.js · Express |
 | **Front-end** | React · JavaScript · HTML · CSS · Tailwind CSS · Bootstrap |
-| **Banco de dados** | PostgreSQL · SQL · SQLite |
-| **Ferramentas** | Git · GitHub · Docker · Linux |
-
----
-
-## 📌 Projetos
-
-### Sistema de Gerenciamento de Portarias - SGPI
-
-Sistema web desenvolvido para o setor de Gestão de Pessoas do IF Goiano para gerenciamento de portarias.
-
-A solução substituiu o controle manual em planilhas, automatizando a extração, o cadastro e o armazenamento de informações e documentos. O sistema centralizou as portarias em um único ambiente, facilitando sua localização e consulta.
-
-**Tecnologias:** Python · Django · Django REST Framework · React 19 · Tailwind CSS · PostgreSQL
-
-### Controle de Visitantes
-
-Sistema web para registro e acompanhamento de visitas em condomínios.
-
-Possui autenticação de porteiros, cadastro de visitantes, autorização de entrada e registro de saída. A solução centraliza as informações e permite acompanhar o andamento das visitas por meio de dashboard.
-
-**Tecnologias:** Python · Django · SQLite · HTML · CSS · Bootstrap
-
-🔗 [Acessar projeto](https://github.com/Marllonlp/controle_visitantes)
+| **Banco de dados** | PostgreSQL · SQL · SQLite · MongoDB |
+| **Ferramentas** | Git · GitHub · Docker · Linux · RabbitMQ · Jira |
+| **Práticas** | Testes automatizados · Metodologias ágeis · Kanban |
 
 ---
 
