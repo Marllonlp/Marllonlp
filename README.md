@@ -7,9 +7,9 @@
 
 ## 🚀 Sobre mim
 
-Sou graduando em Sistemas de Informação e técnico em Informática pelo Instituto Federal Goiano, com experiência profissional em **desenvolvimento web full-stack**.
+Sou graduando em Sistemas de Informação e técnico em Informática pelo Instituto Federal Goiano, e aluno da formação em **Desenvolvimento Web e Inteligência Artificial** do **Programadores do Amanhã**. Tenho experiência profissional em **desenvolvimento web full-stack**, atuando tanto no back-end quanto no front-end.
 
-Atuo principalmente com **Python e Django** no desenvolvimento back-end, incluindo **APIs REST, regras de negócio, integração com bancos de dados, autenticação e autorização**. Também desenvolvo interfaces com **React**, realizando a integração entre front-end e back-end.
+No back-end, desenvolvo **APIs REST** com regras de negócio, integração com bancos de dados, autenticação e autorização, usando principalmente **Django** e também **Node.js com Express**. No front-end, construo interfaces com **React e JavaScript** e faço a integração entre as duas camadas.
 
 Tenho experiência no desenvolvimento e entrega de **sistema institucional em produção**, além do desenvolvimento de projetos web voltados à automação e centralização de processos.
 
@@ -27,9 +27,17 @@ Tenho experiência no desenvolvimento e entrega de **sistema institucional em pr
 
 ---
 
+## 🎓 Formação
+
+- **Formação em Desenvolvimento Web e Inteligência Artificial** – Programadores do Amanhã (previsão: mar/2027)
+- **Bacharelado em Sistemas de Informação** – Instituto Federal Goiano (previsão: dez/2026)
+- **Técnico em Informática Integrado ao Ensino Médio** – Instituto Federal Goiano (2022)
+
+---
+
 ## 🎯 Objetivo profissional
 
-Busco oportunidades como **Desenvolvedor Fullstack Júnior**, com interesse em atuar no desenvolvimento de aplicações web, contribuindo com minha experiência em **Python, Django, APIs REST, React e bancos de dados** e ampliando continuamente minhas competências técnicas.
+Busco oportunidades como **Desenvolvedor Full Stack Júnior**, com interesse em atuar no desenvolvimento de aplicações web de ponta a ponta, contribuindo com minha experiência em **APIs REST, React, JavaScript e bancos de dados** e ampliando continuamente minhas competências técnicas.
 
 ---
 
