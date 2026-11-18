@@ -17,7 +17,7 @@ Tenho experiência no desenvolvimento e entrega de **sistema institucional em pr
 
 | Área | Tecnologias e ferramentas |
 | --- | --- |
-| **Back-end** | Python · Django · Django REST Framework · Django ORM · APIs REST · OAuth 2.0 · Node.js · Express |
+| **Back-end** | Python · Django · Django REST Framework · Java · APIs REST · OAuth 2.0 · Node.js · Express |
 | **Front-end** | React · JavaScript · HTML · CSS · Tailwind CSS · Bootstrap |
 | **Banco de dados** | PostgreSQL · SQL · SQLite · MongoDB |
 | **Ferramentas** | Git · GitHub · Docker · Linux · RabbitMQ · Jira |
