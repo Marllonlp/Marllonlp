@@ -37,7 +37,7 @@ Tenho experiência no desenvolvimento e entrega de **sistema institucional em pr
 
 ## 🎯 Objetivo profissional
 
-Busco oportunidades como **Desenvolvedor Full Stack Júnior**, com interesse em atuar no desenvolvimento de aplicações web de ponta a ponta, contribuindo com minha experiência em **APIs REST, React, JavaScript e bancos de dados** e ampliando continuamente minhas competências técnicas.
+Busco oportunidades na área de **desenvolvimento de software**, como desenvolvedor full stack, back-end ou front-end, contribuindo com minha experiência em aplicações web, APIs e bancos de dados e ampliando continuamente minhas competências técnicas.
 
 ---
 
