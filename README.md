@@ -9,8 +9,6 @@
 
 Sou graduando em Sistemas de Informação e técnico em Informática pelo Instituto Federal Goiano, e aluno da formação em **Desenvolvimento Web e Inteligência Artificial** do **Programadores do Amanhã**. Tenho experiência profissional em **desenvolvimento web full-stack**, atuando tanto no back-end quanto no front-end.
 
-No back-end, desenvolvo **APIs REST** com regras de negócio, integração com bancos de dados, autenticação e autorização, usando principalmente **Django** e também **Node.js com Express**. No front-end, construo interfaces com **React e JavaScript** e faço a integração entre as duas camadas.
-
 Tenho experiência no desenvolvimento e entrega de **sistema institucional em produção**, além do desenvolvimento de projetos web voltados à automação e centralização de processos.
 
 ---
